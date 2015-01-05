@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Codescape.Utilities</id>
+    <version>1.0.0</version>
+    <authors>Shane Kingsley</authors>
+    <owners>Codescape Systems</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Generic utilities for use</description>
+    <releaseNotes>Simple addition of test utilities.</releaseNotes>
+    <copyright>Copyright Codescape Systems - 2015</copyright>
+  </metadata>
+</package>

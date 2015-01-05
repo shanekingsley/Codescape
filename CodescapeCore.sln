@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codescape.Utilities", "Codescape.Utilities\Codescape.Utilities.csproj", "{A066F7E1-E52D-4AC4-9A75-C1B8A3443D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codescape.Tests", "Codescape.Tests\Codescape.Tests.csproj", "{81B57AA5-D085-4D5A-93CC-B76157BE22FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{255E62D9-437B-4B17-B20E-FB30BD0D2D61}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A066F7E1-E52D-4AC4-9A75-C1B8A3443D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A066F7E1-E52D-4AC4-9A75-C1B8A3443D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A066F7E1-E52D-4AC4-9A75-C1B8A3443D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A066F7E1-E52D-4AC4-9A75-C1B8A3443D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B57AA5-D085-4D5A-93CC-B76157BE22FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B57AA5-D085-4D5A-93CC-B76157BE22FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B57AA5-D085-4D5A-93CC-B76157BE22FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B57AA5-D085-4D5A-93CC-B76157BE22FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
