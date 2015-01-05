@@ -1,0 +1,23 @@
+{
+  "name": "CodescapeUtilities",
+  "version": "1.0.0",
+  "description": "Core utilities and helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shanekingsley/Codescape.git"
+  },
+  "author": "Shane Kingsley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanekingsley/Codescape/issues"
+  },
+  "homepage": "https://github.com/shanekingsley/Codescape",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}
